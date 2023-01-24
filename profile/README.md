@@ -1,10 +1,14 @@
-# We are Pelican Games
+# Pelican Games
+A group of alleged game developers just looking for fun.
 
-**What we do**: Games 'n' shit  
-**Contributions**: Open to all of them  
-**Where to get the games**: https://pelican-games.itch.io  
-**Who's behind this**: [@midnadimple](https://github.com/midnadimple), [@devraza](https://github.com/devraza),
-@Ferrumis, and @Relagelifigur (last two don't have github accounts)  
-**Fun fact**: This is our fourth (i think) attempt at this.
+> **We love open source!** All contributions are welcome, but make sure to read the appropriate `CONTRIBUTING.md` file before doing so!
 
+## Members
+The following people are currently involved as members of this group:
 
+- [@midnadimple](https://github.com/midnadimple)
+- [@devraza](https://github.com/devraza), and both
+- @Ferrumis and @Relagelifiger, who currently don't have GitHub accounts.
+
+## Obtaining Our Projects
+All of our projects will be uploaded to [itch.io](https://itch.io).

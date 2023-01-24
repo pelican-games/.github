@@ -1,4 +1,4 @@
-## We are Pelican Games
+# We are Pelican Games
 
 **What we do**: Games 'n' shit  
 **Contributions**: Open to all of them  
